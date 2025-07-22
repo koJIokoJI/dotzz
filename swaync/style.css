@@ -1,0 +1,54 @@
+@import url('../../.cache/wal/colors-waybar.css');
+
+.control-center {
+	background-color: @background;
+	color: @color7;
+	border: 1px solid;
+	border-color: @color10;
+	border-radius: 7px;
+}
+
+.notification {
+	color: @color10;
+	background: @background;
+	border: 0.5px solid;
+	border-color: @color10;
+	color: @color10;
+}
+
+.notification-window {
+	background-color: @background;
+	border: 0.5px solid;
+	border-color: @color10;
+	color: @color10;
+}
+
+.widget-title {
+	margin: 0px 7px 0px 7px;
+}
+
+.widget-volume {
+	margin: 8px;
+	padding: 8px;
+}
+
+.widget-slider {
+	color: red;
+	border: 1px solid;
+	border-color: red;
+}
+
+.per-app-volume {
+	color: green;
+	background-color: yellow;
+}
+
+.widger-mpris {
+	color: blue;
+	background-color: brown;
+}
+
+.widget-buttons-grid {
+	padding: 8px;
+	margin: 8px;
+}
