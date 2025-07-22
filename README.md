@@ -1,4 +1,4 @@
-packages
+# ackages
  - hyprland
  - hyprpicker
  - hyprshot
