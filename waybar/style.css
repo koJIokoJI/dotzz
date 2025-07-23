@@ -41,6 +41,9 @@ window#waybar {
 tooltip {
 	background: @background;
 	color: @color1;
+	border: 0.5px solid;
+	border-color: alpha(@color2, 0.85);
+	border-radius: 0px;
 }
 
 #pulseaudio:hover,
