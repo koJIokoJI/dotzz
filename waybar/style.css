@@ -7,7 +7,6 @@
 
 window#waybar {
 	all: unset;
-	background: alpha(@background, .3);
 }
 
 .modules-left,
